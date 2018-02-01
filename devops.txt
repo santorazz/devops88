@@ -1,0 +1,56 @@
+docker volum- tranfer file from 
+volume conifer: docker volume create hello
+merge and conflict: multiple coders working on code, if all the coders work on the same code there will be conflicts. so separate them.
+
+Tomcat is a web server where er can do smoke test ns this is java version. It is in the web apps folders and we deploy the jar files. catalina sh is in bash folder, 
+
+DNS issue, server can be hung, and we need to resolve the issue , no singable, not enouhg disk storage, we need to clean the disk. Envrionamal issuers like files are not passed in the proper file.
+
+Net cat, ping date can help find the network connection
+Virtual IP address that does not correspond to the actual host 
+
+
+
+
+           DevOPS
+
+software delivery :
+
+developers will use GIT SVN as the repository tool to add the code. 
+we integrate all the codes developed from all the coders foe the complete software .
+CI> jenkins/hudson . Ant /Maven  then it will go for the test
+
+Artifacts: codes, code, confrig, environment
+vagrant, docker 
+
+Continious integeraation continous delivery/deployment
+
+GUI: Graphical user interface
+CLI: command line interface
+
+
+
+;its understand something
+role od devops engineer
+Delivery: form one env to other env
+- will provide code, config, documentation
+- GIT
+JENKINS
+PUPPET/CHEF/ANSIBLE
+VEGRANT
+DOCKER
+
+if we involve all the functions we are building Automation
+INfrastruce:
+WEBSERVER
+DATEBASE SERVER
+MONITORING
+SCRIPTING
+
+
+JENKINS:
+JenkinsS A JAVA APPLICATION
+-Used for CI CD
+ what is CI CD? 
+
+Jenkins
