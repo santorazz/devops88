@@ -1,0 +1,23 @@
+total 1720
+-rw-r--r--@ 1 santoshonta  staff      24 Jan 23 22:20 a
+-rw-rw----@ 1 santoshonta  staff      65 Jan 21 14:23 b
+-rw-r--r--  1 santoshonta  staff     185 Jan 23 22:17 c
+-rw-r--r--  1 santoshonta  staff      50 Jan 23 12:09 d
+-rw-r--r--  1 santoshonta  staff       0 Jan 23 21:34 i am sure
+drwxr-xr-x  8 santoshonta  staff     256 Jan 21 14:25 linux
+drwxr-xr-x  8 santoshonta  staff     256 Jan 24 00:22 linux 3
+drwxr-xr-x  8 santoshonta  staff     256 Jan 24 00:22 linux 4
+-rw-r--r--@ 1 santoshonta  staff  856064 Jan 23 22:58 linux.tar
+-rw-r--r--  1 santoshonta  staff       0 Jan 24 10:00 raj
+-r--r--r--  1 santoshonta  staff      59 Jan 22 12:55 santo
+a
+b
+c
+d
+i am sure
+linux
+linux 3
+linux 4
+linux.tar
+raj
+santo

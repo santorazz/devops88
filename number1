@@ -1,0 +1,9 @@
+#!/bin/bash
+
+if [ -d ~/desktop ]
+then 
+    echo " The folder exists "
+else 
+    echo " The folder does not "
+fi
+
